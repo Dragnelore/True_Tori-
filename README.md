@@ -27,5 +27,6 @@
 ```python
 while True:
   print(deniga)
+```
 # И прикладыаем картинку для ночных посиделок 
 ![Альтернативный текст](https://powerclip.ru/uploads/photos/4414.png)
