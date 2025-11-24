@@ -30,3 +30,4 @@ while True:
 ```
 # И прикладыаем картинку для ночных посиделок 
 ![Альтернативный текст](https://powerclip.ru/uploads/photos/4414.png)
+![Альтернативный текст](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEghMRIRf957IxNsIghuBmb1VCL-d5NccrYaYE0Rp92sMkSwBegxDXK3cZo7jIGIkF8BQhytVOgAaSRbWwlbkucWrH9eZ-Kba2XgmGOXbqXMHl8rEtX70h9Txf9tk-Youoll9ZJrhrphkg4q/s1600/OTKFbt38hio.jpg)
